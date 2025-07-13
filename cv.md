@@ -8,7 +8,7 @@
 
 ## About Me
 
-Junior Developer with strong motivation to learn and grow. Studying Information Technology Solutions at Humber College. Interested in backend development, databases, and machine learning. Quick learner and team player.
+Junior Developer with strong motivation to learn and grow. Studying at Humber College. Interested in backend development, databases, and machine learning. Quick learner and team player.
 
 ---
 
@@ -40,4 +40,4 @@ MSc Geoinformatics
 ## English
 
 Level: Pre-Intermediate (A2-B1)  
-Learning in Canada, daily practice
+Learning, daily practice
